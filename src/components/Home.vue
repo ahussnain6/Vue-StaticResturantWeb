@@ -130,7 +130,6 @@ width: 30%;
    .part-1{
 height: 64vh;
 width: 99.9%;
-border: 1px solid red;
 background: url("https://images.pexels.com/photos/12325128/pexels-photo-12325128.jpeg?auto=compress&cs=tinysrgb&w=600");
 background-size: 100% 100%;
 background-repeat: no-repeat;
